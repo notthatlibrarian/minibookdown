@@ -1,11 +1,11 @@
 ---
-title: "The Librarian's Guide to Cardigan's"
+title: "The Librarian's Guide to Cardigans"
 author: "Lindsay Taylor"
 site: bookdown::bookdown_site
 documentclass: book
 classoption: openany
 ---
 
-# The Librarian's Guide to Cardigan's
+# The Librarian's Guide to Cardigans
 
 By Lindsay Taylor

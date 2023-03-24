@@ -1,11 +1,11 @@
 ---
-title: "A Mini Bookdown"
-author: "Your Name"
+title: "The Librarian's Guide to Cardigan's"
+author: "Lindsay Taylor"
 site: bookdown::bookdown_site
 documentclass: book
 classoption: openany
 ---
 
-# Create your open textbook
+# The Librarian's Guide to Cardigan's
 
-Hello!
+By Lindsay Taylor

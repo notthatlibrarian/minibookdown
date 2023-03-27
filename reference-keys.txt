@@ -1,8 +1,15 @@
 introduction
-introduction-1
 classic-cardigans
+cropped-cardigans
+long-cardigans
+oversized-cardigans
+waterfall-cardigans
+belted-cardigans
+boleros
+introduction-1
+classic-cardigans-1
 features
 when-to-wear-it
-cropped-cardigans
+cropped-cardigans-1
 features-1
 when-to-wear-it-1

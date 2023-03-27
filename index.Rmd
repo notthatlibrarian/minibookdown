@@ -6,25 +6,3 @@ documentclass: book
 classoption: openany
 ---
 
-# Introduction
-
-# Classic cardigans
-For the stereotypical librarian look
-
-# Cropped cardigans
-For the Gen Z librarian
-
-# Long cardigans
-For the Millenial librarian
-
-# Oversized cardigans
-For extra cozy days
-
-# Waterfall cardigans
-A fashion faux pas
-
-# Belted cardigans
-A reviving trend?
-
-# Boleros
-For the adventurous

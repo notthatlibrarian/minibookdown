@@ -6,6 +6,8 @@ documentclass: book
 classoption: openany
 ---
 
-# The Librarian's Guide to Cardigans
+# Introduction
 
-By Lindsay Taylor
+#Classic cardigans
+
+#Cropped cardigans
